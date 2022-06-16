@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "EG1218")(type "Legacy")(uri "${KIPRJMOD}/eg1218/EG1218.lib")(options "")(descr ""))
+)
